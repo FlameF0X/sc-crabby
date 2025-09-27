@@ -5,7 +5,7 @@
 > Crabby is leaning into multi-paradigm, supporting paradigms like OOP and Procedural style of programming. But if you want the functional nature of Crabby, It is still a Functional programming language by default!"
 > -- crabby-lang team
 
-# 2. Waht is **SC-Crabby**?
+# 2. What is **SC-Crabby**?
 SC-Crabby (or Scientific Computing Crabby) is a library for Crabby that adds NumPy like Scientific Computing.
 
 # 3. More stuff would be added sooner or later.
